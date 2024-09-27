@@ -1,0 +1,15 @@
+.ul_hor li{
+    display: inline;
+    margin-left: 5em;
+    font-family: "Raleway";
+
+    
+}
+.ul_hor{
+    text-align: center;
+}
+
+.second_banner{
+    display:inline
+    
+}
